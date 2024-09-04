@@ -1,1 +1,1 @@
-public class Add { public static void greet(String name) { System.out.println("Hello, " + name + "!"); } public static void main(String[] args) { greet("harivarshan"); } }
+public class Add { public static void greet(String name) { System.out.println("Hello, " + name + "!"); } public static void main(String[] args) { greet("nithya"); } }
